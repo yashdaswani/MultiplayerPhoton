@@ -70,3 +70,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+MultiPlayer Photon/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/merged_assets/release/out/bin/Data/data.unity3d
+
+MultiPlayer Photon/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_assets/release/out/bin/Data/data.unity3d
+
+MultiPlayer Photon/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+
+MultiPlayer Photon/Assets/Pro Rifle Pack/Ch15_nonPBR.fbx
+
+MultiPlayer Photon/Library/PlayerDataCache/Android/Data/data.unity3d
